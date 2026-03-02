@@ -4,6 +4,25 @@
 
 ---
 
+## What's New in 2026.3.1
+
+OpenClaw has shipped 13 releases since the last guidebook update (2026.2.17 → 2026.3.1). The highlights:
+
+- **30+ security fixes** — Sandbox escapes, symlink attacks, SSRF, auth bypasses, exec approval hardening. If you're below 2026.2.25, update immediately.
+- **External secrets management** — `openclaw secrets` CLI for managing API keys outside config files
+- **Nested sub-agents** — Sub-agents can now spawn their own sub-agents, with configurable depth limits
+- **ACP thread-bound agents** — Agents can bind to specific conversation threads for persistent context
+- **Agent bindings** — `openclaw agents bind/unbind` for declarative agent-to-channel mapping
+- **Session cleanup CLI** — `openclaw sessions cleanup` for managing stale sessions and reducing costs
+- **MMR memory re-ranking** — Maximal Marginal Relevance for smarter memory retrieval in multi-agent setups
+- **Lifecycle status reactions** — Heartbeats now emit status reactions for coordination visibility
+- **New providers** — Gemini 3.1, Kilo Gateway (multi-provider routing), Volcano Engine/BytePlus, Moonshot video generation, Kimi web search
+- **Android app** — OpenClaw now runs on Android
+- **Claude 4.6 adaptive thinking** — Default brain model now uses adaptive reasoning depth
+- **OpenAI WebSocket streaming** — Real-time streaming for OpenAI provider connections
+
+---
+
 ## 2026-03-02 (Density trim — ~150 lines cut)
 
 ### Updated
