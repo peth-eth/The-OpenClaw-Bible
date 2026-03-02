@@ -118,4 +118,4 @@ openclaw update --auto                      # Enable automatic updates
 openclaw --version                          # Check current version
 ```
 
-Auto-update config lives in your gateway settings. See [[1. Getting Started#Auto-Updates]] for the full JSON config.
+Auto-update config lives in your gateway settings. See [[01. Getting Started#Auto-Updates]] for the full JSON config.

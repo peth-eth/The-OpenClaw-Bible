@@ -27,19 +27,19 @@ Read it once. Do the steps. Close your bookmarks folder.
 ## Chapters
 
 ### Getting Started
-1. **[Getting Started](1.%20Getting%20Started.md)** — Hardware, installation, first setup, models, messaging, workspace
-2. **[Core Concepts & Architecture](2.%20Core%20Concepts%20%26%20Architecture.md)** — Brains & muscles, heartbeats, cron, memory, mission control
-3. **[Security & Hardening](3.%20Security%20%26%20Hardening.md)** — Three rules, isolation, DM pairing, tool lockdown, emergency procedures, external secrets, 2026.3.1 hardening
+1. **[Getting Started](01.%20Getting%20Started.md)** — Hardware, installation, first setup, models, messaging, workspace
+2. **[Core Concepts & Architecture](02.%20Core%20Concepts%20%26%20Architecture.md)** — Brains & muscles, heartbeats, cron, memory, mission control
+3. **[Security & Hardening](03.%20Security%20%26%20Hardening.md)** — Three rules, isolation, DM pairing, tool lockdown, emergency procedures, external secrets, 2026.3.1 hardening
 
 ### Configuration
-4. **[Identity & Personality Files](4.%20Identity%20%26%20Personality%20Files.md)** — SOUL.md, PRINCIPLES.md, AGENTS.md, USER.md, MEMORY.md, ideas library
-5. **[Use Cases & Workflows](5.%20Use%20Cases%20%26%20Workflows.md)** — Reverse prompting, use cases, ready-to-use prompts
-6. **[Life Automation Audit](6.%20Life%20Automation%20Audit.md)** — Not sure what to automate? Full 9-domain life audit prompt
+4. **[Identity & Personality Files](04.%20Identity%20%26%20Personality%20Files.md)** — SOUL.md, PRINCIPLES.md, AGENTS.md, USER.md, MEMORY.md, ideas library
+5. **[Use Cases & Workflows](05.%20Use%20Cases%20%26%20Workflows.md)** — Reverse prompting, use cases, ready-to-use prompts
+6. **[Life Automation Audit](06.%20Life%20Automation%20Audit.md)** — Not sure what to automate? Full 9-domain life audit prompt
 
 ### Capabilities
-7. **[Skills System](7.%20Skills%20System.md)** — SKILL.md format, installing & building skills, progressive disclosure
-8. **[Tools & Plugins](8.%20Tools%20%26%20Plugins.md)** — Firecrawl, Summarize, camofox-browser, x-research, Obsidian CLI
-9. **[Cost Optimization & Model Routing](9.%20Cost%20Optimization%20%26%20Model%20Routing.md)** — Model tiers, ClawRouter, spending limits, $0 stack
+7. **[Skills System](07.%20Skills%20System.md)** — SKILL.md format, installing & building skills, progressive disclosure
+8. **[Tools & Plugins](08.%20Tools%20%26%20Plugins.md)** — Firecrawl, Summarize, camofox-browser, x-research, Obsidian CLI
+9. **[Cost Optimization & Model Routing](09.%20Cost%20Optimization%20%26%20Model%20Routing.md)** — Model tiers, ClawRouter, spending limits, $0 stack
 
 ### Advanced
 10. **[Content Curation & Swipe Files](10.%20Content%20Curation%20%26%20Swipe%20Files.md)** — Content pipeline, tweet analysis, swipe file system, Typefully

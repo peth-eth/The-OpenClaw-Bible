@@ -23,6 +23,18 @@ OpenClaw has shipped 13 releases since the last guidebook update (2026.2.17 → 
 
 ---
 
+## 2026-03-02 (Zero-pad + lean CLAUDE.md)
+
+### Updated
+- **All chapter files renamed** — Zero-padded chapter numbers (1-9 → 01-09) so GitHub sorts them correctly. All internal wiki links updated across every file to match.
+- **CLAUDE.md — Lean rewrite** — Removed per-chapter "Actions" lists that duplicated chapter content. CLAUDE.md now instructs the wizard to read each chapter file directly. Added: upfront needs assessment, recommended chapter paths by user goal (content creator, developer, productivity, marketing, power user, minimal), appendix-at-relevant-moments rule, don't-skip-sections rule, outdated content flagging, personalized completion summary. No more Jarvis references.
+
+### Removed
+- **0. The OpenClaw Bible.md** — Duplicate of README content, removed
+- **Appendix C - Mission Control Jarvis Prompt.md** — Superseded by `Appendix C - Mission Control.md`
+
+---
+
 ## 2026-03-02 (Density trim — ~150 lines cut)
 
 ### Updated
@@ -117,7 +129,7 @@ OpenClaw has shipped 13 releases since the last guidebook update (2026.2.17 → 
 ## 2026-02-24
 
 ### Added
-- **Chapter 12: Marketing Automation & Vibe Marketing** — Expanded comprehensive guide with 4 new major sections: (1) Advanced Agent Orchestration — agent teams for parallel marketing work; (2) Content Pipeline at Scale — real case study of 80+ articles published in 10 days ($0.70/article); (3) Marketing Supercomputer — build expert advisors trained on great marketers' content; (4) Vibe Marketing Framework & 22+ reusable skills library. Source: 10 in-depth articles from marketing automation practitioners (vibe-marketing-articles.md). Related: [[0. The OpenClaw Bible#Chapter 12]], [[CLAUDE.md#Chapter 12 Walkthrough Guide]]
+- **Chapter 12: Marketing Automation & Vibe Marketing** — Expanded comprehensive guide with 4 new major sections: (1) Advanced Agent Orchestration — agent teams for parallel marketing work; (2) Content Pipeline at Scale — real case study of 80+ articles published in 10 days ($0.70/article); (3) Marketing Supercomputer — build expert advisors trained on great marketers' content; (4) Vibe Marketing Framework & 22+ reusable skills library. Source: 10 in-depth articles from marketing automation practitioners (vibe-marketing-articles.md). Related: [[12. Marketing Automation & Vibe Marketing]], [[CLAUDE.md#Chapter 12 Walkthrough Guide]]
 - **vibe-marketing-raw.md** — Raw collection of 25 tweets from marketing automation practitioners. Full untruncated text from Twitter API v2. Engagement metrics: 41,674 total (39,041 likes + 2,633 retweets).
 - **vibe-marketing-articles.md** — Full text of 10 reference articles with detailed case studies, implementation patterns, and real results from marketing automation in production.
 
