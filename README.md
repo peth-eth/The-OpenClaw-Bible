@@ -20,6 +20,12 @@ No threads. No engagement bait. No "secret sauce dumps" that are just the docs r
 
 Read it once. Do the steps. Close your bookmarks folder.
 
+---
+
+## Start Here
+
+> **New to AI agents?** Read the **[AI Agent Setup Guide](00.%20AI%20Agent%20Setup%20Guide.md)** first. It's the distilled version — gets you from zero to a working agent in one session. The 12 chapters below are the deep reference for when you want to go further.
+
 > **Want to follow along interactively?** Open this folder in Claude Code. It will walk you through each chapter step-by-step, prompting you to install, configure, and set up as you go. See [CLAUDE.md](CLAUDE.md) for details.
 
 ---
@@ -27,6 +33,7 @@ Read it once. Do the steps. Close your bookmarks folder.
 ## Chapters
 
 ### Getting Started
+0. **[AI Agent Setup Guide](00.%20AI%20Agent%20Setup%20Guide.md)** — The quickstart. Zero to working agent in one session. Start here.
 1. **[Getting Started](01.%20Getting%20Started.md)** — Hardware, installation, first setup, models, messaging, workspace
 2. **[Core Concepts & Architecture](02.%20Core%20Concepts%20%26%20Architecture.md)** — Brains & muscles, heartbeats, cron, memory, mission control
 3. **[Security & Hardening](03.%20Security%20%26%20Hardening.md)** — Three rules, isolation, DM pairing, tool lockdown, emergency procedures, external secrets, 2026.3.1 hardening
